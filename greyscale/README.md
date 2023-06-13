@@ -21,6 +21,13 @@ This script converts an image to grayscale using CUDA. It utilizes the "stb_imag
 ## 
 3. The program will load the "messi1.png" image, convert it to grayscale, and save the resulting image as "write.png" in the same directory.
 
+## Libraries
+
+This program utilizes the following library:
+
+- [stb_image and stb_image_write](https://github.com/nothings/stb) - A single-file public domain (or MIT licensed) C/C++ library for loading and saving various image formats.
+
+
 ## How It Works
 
 The program consists of the following parts:
