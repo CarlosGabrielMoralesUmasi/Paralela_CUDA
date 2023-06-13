@@ -1,8 +1,4 @@
-﻿// Bart³omiej Borzyszkowski nr 165561
-// AiR KSDiR ETI Gdansk University of Technology
-// Parallel Computing with CUDA Academic Project 2019
-// Gaussian Blur Image Filter
-
+//ccomp_paralela_carlos_morales
 #include "lodepng.cpp"
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
